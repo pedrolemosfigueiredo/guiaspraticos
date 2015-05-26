@@ -1,0 +1,1 @@
+resolução de guias práticos para a disciplina de Linguagens de Programação
